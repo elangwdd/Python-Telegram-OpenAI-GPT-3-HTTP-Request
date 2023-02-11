@@ -5,4 +5,4 @@ Bot Telegram menggunakan bahasa Python dan aiohttp untuk melakukan permintaan HT
 # To Do:
 Anda perlu menambahkan kode untuk membuat bot Telegram dan mengirimkan pesan dari pengguna ke get_response untuk mendapatkan tanggapan. Anda juga perlu mengatur API KEY OpenAI sebagai variabel lingkungan dengan nama OPENAI_API_KEY.
 
-Untuk menjalankan kode di atas, Anda perlu memiliki API Key OpenAI dan sudah memasang library aiohttp dan asyncio.
+Untuk menjalankan kode ini, Anda perlu memiliki API Key OpenAI dan sudah memasang library aiohttp dan asyncio.
